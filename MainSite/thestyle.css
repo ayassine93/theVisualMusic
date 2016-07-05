@@ -1,0 +1,178 @@
+/*
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+body {
+	
+	margin-top: 49px;
+	padding: 0;
+	background: #404040;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #BBBBBB;
+}
+
+p.desc{
+	color: #999999;
+	font-style: bold;
+	padding-top: 55px;
+	margin-left: 200;
+}
+
+#margining{
+	margin-left: 150px;
+	margin-right: 150px;
+	padding-bottom: 30px;
+}
+
+img.logo {
+	float: left;
+	margin-left:220px;
+}
+
+div.content{
+margin-top:160px;
+}
+
+ul#menu,ul.sub1{
+	margin: 0px;
+	padding: 0px;
+	font-size: 15px;
+	text-align:center;
+	font-family: verdana;
+	list-style-type:none;
+}
+
+ul#menu li{
+	width : 179px;
+	text-align: center;
+	position: relative;
+	float: left;	
+}
+
+ul#menu a{
+	text-decoration: none;
+	display: block;
+	width:177px;
+	height: 30px;
+	line-height: 30px;
+	background-color: #242424;
+	color: #BBBBBB;
+	border: 1px solid #CCC;
+	border-radius: 5px;
+}
+
+ul#menu li:hover > a{
+	background-color: #343434;
+}
+
+ul.sub1{
+	display: none;
+}
+
+ul#menu li:hover .sub1{
+	display: block;
+}
+
+
+
+img.description {
+	float: left;
+	margin-left: 220px;
+}
+
+div.form{
+	text-align: left;
+	font-weight: bold;
+	margin-left: 20px;
+}
+
+input.artisttext{
+	margin-left:22px;
+}
+
+input.titletext{
+	margin-left:5px;
+}
+
+input.radios{
+	margin-left:90px;
+}
+
+
+input.browse{
+	margin-left:10px;
+}
+
+#wrapper{
+    width: 900px;
+	margin: 0 auto;
+	color: #999999;
+	text-align: center;
+	background-color: black;
+}
+
+img.head{
+	text-align: center;
+}
+
+h1{
+	color: #BBBBBB;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-align: center;
+}
+
+#left{
+	text-align: justify;
+	width: 440px;
+}
+
+p#searchpage{
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+
+
+h2, h3 {
+	background-color: black;
+	margin: 0;
+	font-weight: normal;
+	color: #BBBBBB;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	margin-right: 120px;
+	margin-left: 120px;
+}
+
+h2 {
+	font-size: 23px;
+}
+
+
+img {
+	border: none;
+}
+
+
+
+img.right {
+	float: right;
+	margin-left: 15px;
+}
+
+/* Form */
+
+form {
+	margin: 0;
+	padding: 0;
+}
+
+input, textarea, select {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333333;
+}
+
